@@ -1,4 +1,10 @@
-### Hi there 👋
+### About me
+
+I'm a maintainer of several packages for the Gentoo Linux distribution, which I'm happy to use for about 20 years. My interests here are in packages, which are related to 3D - apps and libraries for modeling, visualization, etc.
+
+#### Trophy Show-off
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **waebbl/waebbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
