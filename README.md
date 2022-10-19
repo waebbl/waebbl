@@ -4,7 +4,7 @@ I'm a maintainer of several packages for the Gentoo Linux distribution, which I'
 
 #### Trophy Show-off
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=9)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **waebbl/waebbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
